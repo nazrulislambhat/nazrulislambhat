@@ -5,12 +5,12 @@
 
 ### About Me 🚀
 
-🌱 Full stack developer with a Master's degree in Computer Applications.</br>
-👨‍💻 I am passionate about Web Development and enjoy learning new things. </br>
+🌱 Full stack developer with a Master's degree in Computer Science.</br>
+👨‍💻 I am passionate about Software Engineering and enjoy learning new technologies. </br>
 
 - 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com)
 
-- 🌱 I’m currently learning **Advance JavaScript, React JS, NextJS**
+- 🌱 I’m currently learning **Advance JavaScript, React JS, NextJS, MERN**
 
 - 👯 I’m looking to collaborate on [StackMetic Technologies.](https://stackmetic.com)
 
@@ -18,11 +18,9 @@
 
 - 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev)
 
-- 📝 I regularly write articles on [https://fossnoobs.com](https://fossnoobs.com)
+- 💬 Ask me about **Frontend, JS, TS, Next JS, Docker, CSS, SaSS, WordPress, Drupal, React JS, Python, DSA**
 
-- 💬 Ask me about **Frontend, JS, CSS, SaSS, WordPress, Drupal, React JS, Python, DSA**
-
-- 📫 How to reach me **contact@nazrulislam.dev**
+- 📫 How to reach me **contact@nazrulislam.dev** or **nazulislambhat@gmail.com**
 
 - 📄 Know about my experiences [https://nazrulislam.dev/about](https://nazrulislam.dev/about)
 
