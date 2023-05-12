@@ -5,7 +5,7 @@
 
 ### About Me 🚀
 
-🌱 Full stack developer with a Master's degree in Computer Science.</br>
+🌱 Full stack developer with a **Master's degree in Computer Science.** </br>
 👨‍💻 I am passionate about Software Engineering and enjoy learning new technologies. </br>
 
 - 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com)
