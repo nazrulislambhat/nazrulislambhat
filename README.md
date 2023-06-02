@@ -25,6 +25,7 @@
 
 - 📄 Know about my experiences [https://nazrulislam.dev/about](https://nazrulislam.dev/about)
 
+<div align="center">
 <a href="https://www.linkedin.com/in/nazrulislambhat/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -37,7 +38,7 @@
 <a href="https://www.youtube.com/@nazrulislambhat">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
+</div>
 <br />
 
 # 💻 Tech Stack:
@@ -45,6 +46,6 @@
 
 ### My Experiences 🙌
 
-- [Frontend Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
+- [Frontend/Software Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
 - [Founder & CEO (StackMetic Technologies)](https://stackmetic.com/) - (Jan'21-Present)
 - [Founder (FossNoobs Media Pvt. Ltd.)](https://www.fossnoobs.com/) - (Jan'20-Present)
