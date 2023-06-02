@@ -1,5 +1,5 @@
 ## Hello, I'm [Nazrul Islam!](https://nazrulislam.dev/)
-<h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
+<h3 align="center">A passionate full-stack developer / Software Engineer from India 🇮🇳</h3>
 <h4 align="center">Connect with me to discuss how we can bring your ideas to life through cutting-edge technology</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=ea3e3e&style=flat" alt="nazrulislambhat" /> </p>
@@ -9,15 +9,15 @@
 🌱 Full stack developer with a **Master's degree in Computer Science.** </br>
 👨‍💻 I am passionate about Software Engineering and enjoy learning new technologies. </br>
 
-- 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com)
+- 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com) - I might nuke this project before it launches. 
 
-- 🌱 I’m currently learning **Advance JavaScript, React JS, NextJS, MERN**
+- 🌱 I’m currently learning **Advance JavaScript, React JS**
 
-- 👯 I’m looking to collaborate on [StackMetic Technologies.](https://stackmetic.com)
+- 🌱 I’m planning to learn **NextJS, TS, GraphQL, ExpressJS, NodeJS, PostgreSQL**
 
-- 🤝 I’m looking for freelance writers for [FossNoobs Media Pvt. Ltd.](https://fossnoobs.com)
+- 🤝 I’m looking for freelance writers for [FossNoobs Media Pvt. Ltd.](https://fossnoobs.com) - might be nuked.
 
-- 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev)
+- 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev) - building this with React, Framer Motion, TailwindCSS
 
 - 💬 Ask me about **Frontend, JS, TS, Next JS, Docker, CSS, SaSS, WordPress, Drupal, React JS, Python, DSA**
 
