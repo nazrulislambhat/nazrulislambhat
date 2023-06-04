@@ -9,13 +9,13 @@
 🌱 Full stack developer with a **Master's degree in Computer Science.** </br>
 👨‍💻 I am passionate about Software Engineering and enjoy learning new technologies. </br>
 
-- 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com) - **I might nuke this project before it launches.** 
+- 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com) - **I might purge this project before it launches.** 
 
 - 🌱 I’m currently learning **Advance JavaScript, React JS**
 
 - 🌱 I’m planning to learn **NextJS, TS, GraphQL, ExpressJS, NodeJS, PostgreSQL**
 
-- 🤝 I’m looking for freelance writers for [FossNoobs Media Pvt. Ltd.](https://fossnoobs.com) - **project might be nuked in future.**
+- 🤝 I’m looking for freelance writers for [FossNoobs Media Pvt. Ltd.](https://fossnoobs.com) - **project might be purged in future.**
 
 - 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev) - building this with React, Framer Motion, TailwindCSS
 
