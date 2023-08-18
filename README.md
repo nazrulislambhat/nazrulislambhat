@@ -47,6 +47,3 @@
 - [Frontend/Software Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
 - [Founder & CEO (StackMetic Technologies)](https://stackmetic.com/) - (Jan'21-Present)
 - [Founder (FossNoobs Media Pvt. Ltd.)](https://www.fossnoobs.com/) - (Jan'20-Present)
-
-### roadmap.sh
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b76a506a01543ae2dc16eb?variant=dark)](https://roadmap.sh)
