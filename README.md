@@ -9,9 +9,9 @@
 🌱 Full stack developer with a **Master's degree in Computer Science.** </br>
 👨‍💻 I am passionate about Software Engineering and enjoy learning new technologies. </br>
 
-- 🌱 I’m currently learning **Advance JavaScript, React JS**
+- 🌱 I’m currently learning **Advance JavaScript, React JS, Next JS**
 
-- 🌱 I’m planning to learn **NextJS, TS, GraphQL, ExpressJS, NodeJS, PostgreSQL**
+- 🌱 I’m planning to learn **TS, GraphQL, ExpressJS, NodeJS, PostgreSQL**
 
 - 🤝 I’m looking for freelance writers for [FossNoobs Media Pvt. Ltd.](https://fossnoobs.com) - **project might be purged in future.**
 
