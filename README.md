@@ -13,9 +13,7 @@
 
 - 🌱 I’m planning to learn **TS, GraphQL, ExpressJS, NodeJS, PostgreSQL**
 
-- 🤝 I’m looking for freelance writers for [FossNoobs Media Pvt. Ltd.](https://fossnoobs.com) - **project might be purged in future.**
-
-- 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev) - building with React, Framer Motion, TailwindCSS
+- 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev) - building with Next JS, Tailwind, TypeScript, NextUI, Framer Motion
 
 - 💬 Ask me about **Frontend, JS, TS, Next JS, Docker, CSS, SaSS, WordPress, Drupal, React JS, Python, DSA**
 
