@@ -42,6 +42,5 @@
 
 ### My Experiences 🙌
 
-- [Software Engineer II (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
-- [Founder & CEO (StackMetic Technologies)](https://stackmetic.com/) - (Jan'21-Present)
+- [Software Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
 - [Founder (FossNoobs Media Pvt. Ltd.)](https://www.fossnoobs.com/) - (Jan'20-Present)
