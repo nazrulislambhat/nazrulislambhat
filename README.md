@@ -9,7 +9,7 @@
 🌱 Full stack developer with a **Master's degree in Computer Science.** </br>
 👨‍💻 I am passionate about Software Engineering and enjoy learning new technologies. </br>
 
-- 🌱 I’m currently learning **Advance JavaScript, React JS, Next JS**
+- 🌱 I’m currently learning **Advance JavaScript, React JS, Next JS, GraphQL, Webpack, TS**
 
 - 🌱 I’m planning to learn **TS, GraphQL, ExpressJS, NodeJS, PostgreSQL**
 
@@ -42,6 +42,6 @@
 
 ### My Experiences 🙌
 
-- [Frontend/Software Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
+- [Software Engineer II (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
 - [Founder & CEO (StackMetic Technologies)](https://stackmetic.com/) - (Jan'21-Present)
 - [Founder (FossNoobs Media Pvt. Ltd.)](https://www.fossnoobs.com/) - (Jan'20-Present)
