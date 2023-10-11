@@ -1,8 +1,6 @@
 ## Hello, I'm [Nazrul Islam!](https://nazrulislam.dev/)
-<h3 align="center">A passionate full-stack developer / Software Engineer from India 🇮🇳</h3>
-<h4 align="center">Connect with me to discuss how we can bring your ideas to life through cutting-edge technology</h4>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=ea3e3e&style=flat" alt="nazrulislambhat" /> </p>
+<h1 align="center">A passionate full-stack developer / Software Engineer from India 🇮🇳</h1>
+<h2 align="center">Connect with me to discuss how we can bring your ideas to life through cutting-edge technology</h2>
 
 ### About Me 🚀
 
