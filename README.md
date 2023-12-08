@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nazrulislambhat/)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/nazrulislambhat)
 
-Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! || (https://nazrulislam.in/)
+Feel free to checkout my [portfolio](https://nazrulislam.dev/) website!
 - 🏢 Software Engineer II [@Axelerant](https://github.com/axelerant), Remote
 - 🧰 I build with: `React JS`, `JavaScript`, `Next.JS`, `Gatsby.JS`,  `MUI`, `Tailwind`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
