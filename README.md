@@ -5,11 +5,11 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/nazrulislambhat)
 
 Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! || (https://nazrulislam.in/)
-- 🏢 Software Engineer II [@Axelerant](https://www.axelerant.com/), Remote
+- 🏢 Software Engineer II [@Axelerant](https://github.com/axelerant), Remote
 - 🧰 I build with: `React JS`, `JavaScript`, `Next.JS`, `Gatsby.JS`,  `MUI`, `Tailwind`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev .....
 - 🥹 Talk to me about Bangalore, Code .....
-- 🧰 Building [@onesevendev](https://www.oneseven.dev/), Remote
+- 🧰 Building [@onesevendev](https://github.com/onesevendev), Remote
 - 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▰▱▱▱▱ 60%
 
