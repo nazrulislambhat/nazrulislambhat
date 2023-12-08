@@ -10,6 +10,6 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! || (http
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev .....
 - 🥹 Talk to me about Bangalore, Code .....
-- 🧰 Currently building @onesevendev
+- 🧰 Currently building [@onesevendev]
 - 🎯 Becomming a Full Stack dev | - ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯ 60%
 
