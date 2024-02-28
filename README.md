@@ -4,11 +4,11 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nazrulislambhat/)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/nazrulislambhat)
 
-Feel free to checkout my [portfolio](https://nazrulislam.dev/) website!
+Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming Soon with NextJS
 - 🏢 Software Engineer II [@Axelerant](https://github.com/axelerant), Remote
 - 🧰 I build with: `React JS`, `JavaScript`, `Next.JS`, `Gatsby.JS`,  `MUI`, `Tailwind`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
-- 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@oneseven.de | nazrul@salahsync.com .....
+- 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@oneseven.dev | nazrul@salahsync.com .....
 - 🥹 Talk to me about Bangalore & Code .....
 - 🧰 Building [@onesevendev](https://github.com/onesevendev), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
 - 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▱▱▱▱▱ 50%
