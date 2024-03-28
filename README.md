@@ -10,6 +10,6 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev .....
 - 🥹 Talk to me about Bangalore & Code .....
-- 🧰 Building [@noneseven](https://github.com/noneseven), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
+- 🧰 Building [@oneseventechnologies](https://github.com/oneseventechnologies), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
 - 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▱▱▱▱▱ 50%
 
