@@ -13,3 +13,4 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - 🧰 Building [@stackforest](https://github.com/stackforest), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
 - 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▱▱▱▱▱ 50%
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b76a506a01543ae2dc16eb?variant=dark)](https://roadmap.sh)
