@@ -14,3 +14,4 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▱▱▱▱▱ 50%
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b76a506a01543ae2dc16eb?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b76a506a01543ae2dc16eb?variant=dark" alt="roadmap.sh"/></a>
