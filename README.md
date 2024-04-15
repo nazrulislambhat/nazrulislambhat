@@ -5,13 +5,10 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/nazrulislambhat)
 
 Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming Soon with NextJS
-- 🏢 Software Engineer L3 [@Axelerant](https://github.com/axelerant), Remote
+- 🏢 Software Engineer (L3) [@Axelerant](https://axelerant.com), Remote
 - 🧰 I build with: `React JS`, `JavaScript`, `Next.JS`, `Gatsby.JS`,  `MUI`, `Tailwind`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev .....
 - 🥹 Talk to me about Bangalore & Code .....
 - 🧰 Building [@stackforest](https://github.com/stackforest), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
 - 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▱▱▱▱▱ 50%
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b76a506a01543ae2dc16eb?variant=dark)](https://roadmap.sh)
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b76a506a01543ae2dc16eb?variant=dark" alt="roadmap.sh"/></a>
