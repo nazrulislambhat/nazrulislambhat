@@ -9,5 +9,5 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev .....
 - 🥹 Talk to me about Bangalore & Code .....
-- 🧰 Building [@stackforest](https://github.com/stackforest), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
+- 🧰 Building [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
 - 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▱▱▱▱▱ 50%
