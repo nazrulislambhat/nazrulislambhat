@@ -10,6 +10,6 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
 - 🥹 Talk to me about Namma Bengaluru (ಬೆಂಗಳೂರು) & Code .....
 - 🧰 Building [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
-- 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▱▱▱▱▱ 50%
+- 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▰▱▱▱▱ 60%
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64b76a506a01543ae2dc16eb?variant=light)](https://roadmap.sh)
