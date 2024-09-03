@@ -5,11 +5,11 @@
 
 Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming Soon with Next JS
 - 🏢 Software Engineer (L3) [@Axelerant](https://axelerant.com), Remote
-- 🧰 I build with: `React JS`, `JavaScript`, `Next.JS`, `Gatsby JS`,  `MUI`, `Tailwind`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
+- 🧰 I build with: `React JS`, `JavaScript`, `Next JS`, `Radix UI`,  `MUI`, `Tailwind`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
 - 🥹 Talk to me about Namma Bengaluru (ಬೆಂಗಳೂರು) & Code .....
-- 🧰 Building [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), Remote
-- 🎯 Becomming a Full Stack dev | ▰▰▰▰▰▰▱▱▱▱ 60%
+- 🧰 Building [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync)
+- 🎯 Becomming a Full Stack Dev. | ▰▰▰▰▰▰▱▱▱▱ 60%
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64b76a506a01543ae2dc16eb?variant=light)](https://roadmap.sh)
