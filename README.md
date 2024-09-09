@@ -1,7 +1,7 @@
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/nazrulislambhat)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=black" />](https://github.com/nazrulislambhat)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=black" />](https://instagram.com/nazrulislambhat) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />](https://www.linkedin.com/in/nazrulislambhat/)
-[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/channel/nazrulislambhat)
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=black" />](https://www.youtube.com/channel/nazrulislambhat)
 
 Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming Soon with Next JS - [Dev Site](https://nazrulislam.in/)
 - 🏢 Software Engineer (L3) - Frontend - [@Axelerant](https://axelerant.com), Remote
