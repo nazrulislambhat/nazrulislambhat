@@ -20,6 +20,18 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - 🧰 Building [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), [@ifedtrust](https://github.com/nazrulislambhat/ifedtrust), [@mehandibysana](https://github.com/nazrulislambhat/mehandibysana)
 - 🎯 Becomming a Full Stack Dev. | ▰▰▰▰▰▰▱▱▱▱ 60% |
 
+## Project Status
+
+### Project List
+
+| Project Name | Status | Priority |
+|--------------|--------|----------|
+| [nazrulislam.dev](https://github.com/nazrulislambhat/nazrul) | <span style="background-color:green; color:white;">In Progress</span> | <span style="background-color:green; color:white;">Priority 2</span> |
+| [stacknothing.com](https://github.com/nazrulislambhat/stacknothing) | <span style="background-color:purple; color:white;">In Progress</span> | <span style="background-color:purple; color:white;">Priority 2</span> |
+| [ifedtrust.com](https://github.com/nazrulislambhat/ifedtrust) | <span style="background-color:purple; color:white;">In Progress</span> | <span style="background-color:purple; color:white;">Priority 3</span> |
+| [mehandibysana.com](https://github.com/nazrulislambhat/mehandibysana) | <span style="background-color:purple; color:white;">In Progress</span> | <span style="background-color:purple; color:white;">Priority 3</span> |
+| [salahsync.com](https://github.com/nazrulislambhat/salahsync) | <span style="background-color:red; color:white;">Delayed</span> | <span style="background-color:red; color:white;">Priority 1</span> |
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
