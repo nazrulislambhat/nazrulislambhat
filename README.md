@@ -17,20 +17,8 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
 - 🥹 Talk to me about Namma Bengaluru (ಬೆಂಗಳೂರು) & Code .....
-- 🧰 Building [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), [@ifedtrust](https://github.com/nazrulislambhat/ifedtrust), [@mehandibysana](https://github.com/nazrulislambhat/mehandibysana)
+- 🧰 Building [@nazrulislambhat](https://github.com/nazrul), [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), [@ifedtrust](https://github.com/nazrulislambhat/ifedtrust), [@mehandibysana](https://github.com/nazrulislambhat/mehandibysana)
 - 🎯 Becomming a Full Stack Dev. | ▰▰▰▰▰▰▱▱▱▱ 60% |
-
-## Project Status
-
-### Project List
-
-| Project Name | Status | Priority |
-|--------------|--------|----------|
-| [nazrulislam.dev](https://github.com/nazrulislambhat/nazrul) | <span style="background-color:'#BCED09'; color:white;">In Progress</span> | <span style="background-color:green; color:white;">Priority 1</span> |
-| [stacknothing.com](https://github.com/nazrulislambhat/stacknothing) | <span style="background-color:purple; color:white;">In Progress</span> | <span style="background-color:purple; color:white;">Priority 1</span> |
-| [ifedtrust.com](https://github.com/nazrulislambhat/ifedtrust) | <span style="background-color:purple; color:white;">In Progress</span> | <span style="background-color:purple; color:white;">Priority 2</span> |
-| [mehandibysana.com](https://github.com/nazrulislambhat/mehandibysana) | <span style="background-color:purple; color:white;">In Progress</span> | <span style="background-color:purple; color:white;">Priority 2</span> |
-| [salahsync.com](https://github.com/nazrulislambhat/salahsync) | <span style="background-color:red; color:white;">Delayed</span> | <span style="background-color:red; color:white;">Priority 3</span> |
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
