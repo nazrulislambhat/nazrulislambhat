@@ -11,7 +11,6 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
 - 🥹 Talk to me about Namma Bengaluru (ಬೆಂಗಳೂರು) & Code .....
 - 🧰 Building [@nazrulislambhat](https://github.com/nazrul), [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), [@ifedtrust](https://github.com/nazrulislambhat/ifedtrust), [@mehandibysana](https://github.com/nazrulislambhat/mehandibysana)
--  
 - 🎯 Full Stack Dev. | ▰▰▰▰▰▰▱▱▱▱ 60% |
 
 
