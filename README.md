@@ -4,13 +4,6 @@
 [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/nazrulislambhat)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://www.x.com/nazrulislambhat)
 
-
-
-
-
-
-
-
 Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming Soon with Next JS - [Dev Site](https://nazrulislam.in/)
 - 🏢 Software Engineer (L3) - Frontend - [@Axelerant](https://axelerant.com), Remote
 - 🧰 I build with: `React JS`, `JavaScript`, `Next JS`, `Radix UI`, `Aceternity UI`,  `MUI`, `Tailwind CSS`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
@@ -18,7 +11,8 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
 - 🥹 Talk to me about Namma Bengaluru (ಬೆಂಗಳೂರು) & Code .....
 - 🧰 Building [@nazrulislambhat](https://github.com/nazrul), [@stacknothing](https://github.com/stacknothing), [@salahsync](https://github.com/nazrulislambhat/salahsync), [@ifedtrust](https://github.com/nazrulislambhat/ifedtrust), [@mehandibysana](https://github.com/nazrulislambhat/mehandibysana)
-- 🎯 Becomming a Full Stack Dev. | ▰▰▰▰▰▰▱▱▱▱ 60% |
+-  
+- 🎯 Full Stack Dev. | ▰▰▰▰▰▰▱▱▱▱ 60% |
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
