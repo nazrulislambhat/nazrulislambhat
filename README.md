@@ -10,7 +10,7 @@ Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
 - 🥹 Talk to me about Namma Bengaluru (ಬೆಂಗಳೂರು) & Code .....
-- 🧰 Building [@nazrulislambhat](https://github.com/nazrul), [@stacknothing](https://github.com/stacknothing), [@fossnoobs](https://github.com/nazrulislambhat/fossnoobs), [@salahsync](https://github.com/nazrulislambhat/salahsync), [@ifedtrust](https://github.com/nazrulislambhat/ifedtrust), [@mehandibysana](https://github.com/nazrulislambhat/mehandibysana)
+- 🧰 Building [@nazrulislambhat](https://github.com/nazrulislambhat/nazrul), [@stacknothing](https://github.com/stacknothing), [@fossnoobs](https://github.com/nazrulislambhat/fossnoobs), [@salahsync](https://github.com/nazrulislambhat/salahsync), [@ifedtrust](https://github.com/nazrulislambhat/ifedtrust), [@mehandibysana](https://github.com/nazrulislambhat/mehandibysana)
 - 🎯 Full Stack Dev. | ▰▰▰▰▰▰▱▱▱▱ 60% |
 
 
