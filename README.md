@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://www.x.com/nazrulislambhat)
 
 Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming Soon with Next JS - [Dev Site](https://nazrulislam.in/)
-- 🏢 Software Engineer (L3) - Frontend - [@Axelerant](https://axelerant.com), Remote
+- 🏢 Freelance Senior Software Engineer - [@stacknothing](https://stacknothing.com), Remote
 - 🧰 I build with: `React JS`, `JavaScript`, `Next JS`, `Radix UI`, `Aceternity UI`,  `MUI`, `Tailwind CSS`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
