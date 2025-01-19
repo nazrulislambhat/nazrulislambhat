@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nazrulislambhat/)
 [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/nazrulislambhat)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://www.x.com/nazrulislambhat)
-[![Peerlist](https://github-readme-badge.peerlist.io/api/nazrulislambhat?style=social)](https://peerlist.io/nazrulislambhat)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/nazrulislambhat)](https://peerlist.io/nazrulislambhat)
 
 Feel free to checkout my [portfolio](https://nazrulislam.dev/) website! - Coming Soon with Next JS - [Dev Site](https://nazrulislam.in/)
 - 🏢 Building - [@stacknothing](https://stacknothing.com)
