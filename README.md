@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/nazrulislambhat)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://www.x.com/nazrulislambhat)
 
-- 🏢 Building - [@stacknothing](https://stacknothing.com) || [portfolio](https://nazrulislam.dev/)
+- 🏢 Building - [@stacknothing](https://stacknothing.com) || [@nazrul](https://nazrulislam.dev/)
 - 🧰 I build with: `React JS`, `JavaScript`, `TypeScript`, `Next JS`, `Radix UI`, `Aceternity UI`,  `MUI`, `Tailwind CSS`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
