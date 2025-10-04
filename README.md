@@ -6,7 +6,7 @@
 
 - 🏢 Senior Software Engineer - [HCLTech](https://www.hcltech.com/)
 - 🏢 Building - [@stacknothing](https://stacknothing.com) || [@nazrul](https://nazrulislam.dev/)
-- 🧰 I build with: `React JS`, `JavaScript`, `TypeScript`, `Next JS`, `Radix UI`, `Aceternity UI`,  `MUI`, `Tailwind CSS`, `WordPress`,`Drupal`,`Ant Design`, `Framer Motion`, `Bootstrap` .......
+- 🧰 I build with: `React JS`, `JavaScript`, `TypeScript`, `Next JS`.......
 - ⚡ I enjoy Gaming, Reading, Coding  :)
 - 📫 Reach out to me: nazrul@nazrulislam.dev | nazrul@stacknothing.com .....
 - 🥹 Talk to me about Namma Bengaluru (ಬೆಂಗಳೂರು) & Code .....
@@ -90,5 +90,5 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
- 
+ [![roadmap.sh](https://roadmap.sh/card/wide/64b76a506a01543ae2dc16eb?variant=light)](https://roadmap.sh)
 
